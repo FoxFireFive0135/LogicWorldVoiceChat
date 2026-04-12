@@ -9,7 +9,8 @@ LWVC - A very experimental voice chat for Logic World.
 - EccsLogicWorldAPI (https://github.com/Ecconia/Ecconia-LogicWorld-Mods/tree/master/EccsLogicWorldAPI)
 
 # How to install?
-Just put the LogicWorldVoiceChat folder (the one with all the folders in it) into your GameData folder.
+First make sure you're using the "public-previews" beta on steam.
+Then put the LogicWorldVoiceChat folder (the one with all the folders in it) into your GameData folder.
 <img width="539" height="531" alt="image" src="https://github.com/user-attachments/assets/3d0f49ef-f5f5-416e-9345-8f7d4e6488ec" />
 
 This mod is very experimental, so any help is welcome.
