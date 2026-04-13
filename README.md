@@ -14,3 +14,5 @@ Then put the LogicWorldVoiceChat folder (the one with all the folders in it) int
 <img width="539" height="531" alt="image" src="https://github.com/user-attachments/assets/3d0f49ef-f5f5-416e-9345-8f7d4e6488ec" />
 
 This mod is very experimental, so any help is welcome.
+Known issues:
+- Latency being like 2 - 4 seconds.
