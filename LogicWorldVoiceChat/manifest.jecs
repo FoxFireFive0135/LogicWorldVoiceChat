@@ -1,0 +1,9 @@
+ID: FoxFireFive.LogicWorldVoiceChat
+Name: Logic World Voice Chat
+Author: FoxFireFive
+Version: 1.0.2
+Priority: 0
+Type: Optional
+Dependencies:
+    - AssemblyLoader
+    - EccsLogicWorldAPI
