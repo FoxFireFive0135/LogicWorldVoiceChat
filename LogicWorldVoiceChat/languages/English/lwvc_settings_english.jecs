@@ -1,0 +1,31 @@
+﻿MHG.SettingsMenu.Pages.Audio.Headings.LogicWorldVoiceChat: "LWVC: Voice settings"
+MHG.SettingsMenu.Pages.Controls.Headings.LogicWorldVoiceChat: "LWVC: Keybinds"
+
+FoxFireFive.LogicWorldVoiceChat.VoiceEnabled: "Voice Chat"
+FoxFireFive.LogicWorldVoiceChat.VoiceEnabled.Description: """
+    Toggles voice transmission on/off.
+    """
+FoxFireFive.LogicWorldVoiceChat.PushToTalk: "Push To Talk"
+FoxFireFive.LogicWorldVoiceChat.PushToTalk.Description: """
+    Push to talk. I'm pretty sure you know what it does.
+    """
+
+FoxFireFive.LogicWorldVoiceChat.MuteEveryone: "Mute Everyone"
+FoxFireFive.LogicWorldVoiceChat.MuteEveryone.Description: """
+    Mutes everyones voice.
+    """
+
+FoxFireFive.LogicWorldVoiceChat.OthersVoiceVolume: "Others Voice Volume"
+FoxFireFive.LogicWorldVoiceChat.OthersVoiceVolume.Description: """
+    The volume of everyone elses voice.
+    """
+
+FoxFireFive.LogicWorldVoiceChat.VoiceInputDevice: "Voice Input Device"
+FoxFireFive.LogicWorldVoiceChat.VoiceInputDevice.Description: """
+    The microphone you want to use.
+    """
+
+FancyInput.Trigger.LogicWorldVoiceChat.PushToTalk : "Push To Talk"
+FancyInput.Trigger.LogicWorldVoiceChat.PushToTalk.Description : """
+    When this key is pressed, and Push to Talk is enabled, your voice will be transmitted.
+    """
