@@ -1,6 +1,0 @@
-﻿LogicWorldVoiceChat.PushToTalk:
-    Heading: "LogicWorldVoiceChat"
-    CanBeHeld: true
-    DefaultBinding:
-        Options:
-            - B
